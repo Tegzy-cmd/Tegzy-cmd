@@ -2,51 +2,28 @@
 
 ### Backend Engineer | TypeScript / Node.js | Java / Spring Boot
 
-I build backend systems, APIs, and transactional workflows that solve real
-product problems.
+I build backend systems, APIs, and transactional workflows for real-world products.
 
-I'm a co-founder, COO, and backend engineer at **Kontestica**, a contest and
-event management platform used by real customers. I work primarily on backend
-systems for ticketing, reservations, coupons, and payments.
+I'm a co-founder, COO, and backend engineer at **Kontestica**, a contest and event
+management platform used by real customers. I work primarily on backend systems
+for ticketing, reservations, coupons, and payments.
 
 I enjoy solving problems around API design, data consistency, authentication,
 business logic, and reliable backend workflows.
 
 ---
 
-## What I Work With
+## Technical Skills
 
-### Languages
-- TypeScript
-- JavaScript
-- Java
-- Go *(foundational)*
+**Languages:** TypeScript, JavaScript, Java, Go *(foundational)*
 
-### Backend
-- Node.js
-- Express.js
-- Spring Boot
-- NestJS *(currently learning)*
-- REST APIs
+**Backend:** Node.js, Express.js, Spring Boot, NestJS *(learning)*, REST APIs
 
-### Data & APIs
-- MongoDB
-- MySQL
-- JWT
-- Role-Based Access Control (RBAC)
-- OpenAPI / Swagger
+**Data & APIs:** MongoDB, MySQL, JWT, RBAC, OpenAPI / Swagger
 
-### Tools & Integrations
-- Git / GitHub
-- Postman
-- Paystack
-- Cloudinary
+**Tools & Integrations:** Git, GitHub, Postman, Paystack, Cloudinary
 
-### Deployment
-- Render
-- Vercel
-- Hostinger
-- cPanel
+**Deployment:** Render, Vercel, Hostinger, cPanel
 
 ---
 
@@ -55,7 +32,7 @@ business logic, and reliable backend workflows.
 ### Kontestica
 **Co-founder · COO · Backend Engineer**
 
-Contest and event management platform used by real customers.
+Contest and event management platform.
 
 I work primarily on the backend, including:
 
@@ -102,8 +79,8 @@ and backend business logic across different user roles.
 
 ### Spring Boot REST API
 
-A learning project built with Java and Spring Boot to strengthen my
-experience with strongly typed backend development and REST API design.
+A learning project built with Java and Spring Boot to strengthen my experience
+with strongly typed backend development and REST API design.
 
 ---
 
@@ -133,5 +110,6 @@ I'm particularly interested in:
 
 ## Connect
 
-- GitHub: [@Tegzy-cmd](https://github.com/Tegzy-cmd)
-- Email: omorakabenjamin3@gmail.com
+[GitHub](https://github.com/Tegzy-cmd) ·
+[LinkedIn](https://www.linkedin.com/in/benjamin-omoraka-64a9043ab/) ·
+[Email](mailto:omorakabenjamin3@gmail.com)
